@@ -1,0 +1,61 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon(TM) 780M (ID=0x15bf)
+    Vendor:   ATI
+    VRAM:     929 MB
+    Driver:   32.0.11030.7006
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\racing game\RacingGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\racing game\RacingGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\racing game\RacingGame_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\racing game\RacingGame_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\racing game\RacingGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\racing game\RacingGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\racing game\RacingGame_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\racing game\RacingGame_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\racing game\RacingGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\racing game\RacingGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\racing game\RacingGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\racing game\RacingGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\racing game\RacingGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\racing game\RacingGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.983 seconds
+Platform assembly: C:\racing game\RacingGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\racing game\RacingGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.447000 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4a94 -> priority: 1 
+  Thread -> id: 4544 -> priority: 1 
+  Thread -> id: 17a0 -> priority: 1 
+  Thread -> id: 38e8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.043900 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 489.
+Total: 0.973000 ms (FindLiveObjects: 0.106900 ms CreateObjectMapping: 0.037300 ms MarkObjects: 0.799500 ms  DeleteObjects: 0.026800 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.978200 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 362.
+Total: 0.635000 ms (FindLiveObjects: 0.066100 ms CreateObjectMapping: 0.018400 ms MarkObjects: 0.502200 ms  DeleteObjects: 0.045800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.793400 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 489.
+Total: 0.717200 ms (FindLiveObjects: 0.091600 ms CreateObjectMapping: 0.022500 ms MarkObjects: 0.580900 ms  DeleteObjects: 0.020500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.085000 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 1325.
+Total: 3.009500 ms (FindLiveObjects: 0.115300 ms CreateObjectMapping: 0.047900 ms MarkObjects: 0.748800 ms  DeleteObjects: 2.095600 ms)
+
